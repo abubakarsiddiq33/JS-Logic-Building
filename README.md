@@ -4,7 +4,7 @@
 This repository documents my **40-day JavaScript challenge**, where I solve one logic/problem every day. The goal is to sharpen **problem-solving and JavaScript skills** through consistent practice.
 
 ## 📅 Progress Tracker
-- [ ] Day 01  
+- [✔] Day 01  
 - [ ] Day 02
 
 
