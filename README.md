@@ -5,7 +5,7 @@ This repository documents my **40-day JavaScript challenge**, where I solve one 
 
 ## 📅 Progress Tracker
 ✅ - Day 01  
-.. - Day 02
+✅ - Day 02  
 
 
 ## 🎯 Goals
